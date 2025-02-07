@@ -68,7 +68,7 @@ export default function JoinGame() {
       <CardHeader>
         <CardTitle className="text-2xl font-bold text-center flex items-center justify-center gap-2">
           <GameController className="w-6 h-6" />
-          Number Mean Game
+          Alice In BorderLand - KING ♠ Game
         </CardTitle>
       </CardHeader>
       <CardContent className="space-y-4">
